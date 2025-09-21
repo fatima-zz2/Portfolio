@@ -1,4 +1,4 @@
-# My Portfolio
+# My Curriculum Vitae
 👩‍💻 About Me
 
 I am a Software Engineering student (6th semester) with a passion for front-end web development and UI/UX design. I specialize in HTML, CSS, and beginner-level JavaScript, and I actively explore modern design tools like Figma to build creative and user-friendly web pages.
