@@ -1,9 +1,9 @@
 # My Curriculum Vitae
 👩‍💻 About Me
 
-I am a Software Engineering student (6th semester) with a passion for front-end web development and UI/UX design. I specialize in HTML, CSS, and beginner-level JavaScript, and I actively explore modern design tools like Figma to build creative and user-friendly web pages.
+I am a Software Engineering student (7th semester) with a passion for front-end web development and UI/UX design. I specialize in HTML, CSS, and beginner-level JavaScript, and I actively explore modern design tools like Figma to build creative and user-friendly web pages.
 
-Beyond coding, I have strong experience in content writing, video editing, data entry, and financial record management, making me a versatile professional who blends technical expertise with creative problem-solving.
+Beyond coding, I have strong experience in recruitment, content writing, video editing, data entry, and financial record management, making me a versatile professional who blends technical expertise with creative problem-solving.
 
 🎓 Education
 
@@ -13,7 +13,8 @@ Intermediate in Computer Science – Govt. Girls Degree College Zamzama (2019 �
 
 Primary Education – Karachi High School (2009 – 2018)
 
-🛠️ Skills
+🛠️ Tools 
+Recruitment: LinkedIn, instantly, contactout, grok, bouncer ai, indeed, google calls, teams, talentflowai
 
 Front-End Development: HTML, CSS, JavaScript (beginner)
 
@@ -38,6 +39,14 @@ English – Proficient
 Urdu – Native
 
 💼 Experience
+JPJ Staffing  [December  2025 - Present] 
+A staffing company and my role includes Recruiting, sourcing candidates, marketing and account management. 
+  
+Affiliate Manager [Tok Pros ][Tiktok platform ][December  2025 - Jan 2026 ] 
+As an Affiliate Manager at Tok Pros, I am responsible for managing client accounts within the TikTok Seller Centre and  Affiliate Centre.
+ 
+IT Account Manager [Calypso Way [Sep 2025 - Nov 2025] 
+A staffing company and my role includes Recruiting, sourcing candidates, marketing and account management.
 
 WordPress Writer & SEO (Intern) – Truck Tide (2025)
 Developed SEO-rich content and optimized landing pages for a U.S.-based logistics brand.
@@ -66,15 +75,13 @@ Teamwork & leadership experience.
 
 🌐 Find Me Online
 
-LinkedIn
+LinkedIn [https://www.linkedin.com/m/in/fatima-maqsood-61b93a341/
 
-YouTube
+YouTube [http://www.youtube.com/@fatima_zz]
 
 Instagram
 
 Facebook
-
-TikTok
 
 📬 Contact
 
