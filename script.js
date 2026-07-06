@@ -1,6 +1,26 @@
-// script.js
-// Advanced interactive JS for your portfolio
+// Smooth scrolling for future navigation
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            e.preventDefault();
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+    });
+});
 
+// Console greeting
+console.log('🚀 Fatima Maqsood — Software Engineering Student');
+console.log('💻 Building the future with code.');
+
+// Optional: Add year to footer automatically
+document.addEventListener('DOMContentLoaded', function() {
+    const yearSpan = document.querySelector('.footer-note');
+    if (yearSpan) {
+        const currentYear = new Date().getFullYear();
+        yearSpan.textContent = yearSpan.textContent.replace('2026', currentYear);
+    }
+});
 (() => {
     "use strict";
 
